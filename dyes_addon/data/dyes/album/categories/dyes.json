@@ -9,5 +9,22 @@
     "template": {
         "bookmarkItem": "minecraft:purple_dye"
     },
-    "cards": []
+    "cards": [
+        "dyes:white_dye",
+        "dyes:light_gray_dye",
+        "dyes:gray_dye",
+        "dyes:black_dye",
+        "dyes:brown_dye",
+        "dyes:red_dye",
+        "dyes:orange_dye",
+        "dyes:yellow_dye",
+        "dyes:lime_dye",
+        "dyes:green_dye",
+        "dyes:cyan_dye",
+        "dyes:light_blue_dye",
+        "dyes:blue_dye",
+        "dyes:purple_dye",
+        "dyes:magenta_dye",
+        "dyes:pink_dye"
+    ]
 }
