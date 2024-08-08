@@ -1,0 +1,8 @@
+{
+    "type": "collectorsalbum:card",
+    "id": "dyes:blue_dye",
+    "item": "minecraft:blue_dye",
+    "category": "dyes:dyes",
+    "points": 1,
+    "number": 13
+}
