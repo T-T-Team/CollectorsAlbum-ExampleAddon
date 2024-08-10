@@ -1,0 +1,18 @@
+{
+    "type": "collectorsalbum:entity_filter",
+    "filter": "collectorsalbum:monster",
+    "pass": {
+        "type": "collectorsalbum:random_chance",
+        "chance": 0.25,
+        "item": {
+            "type": "collectorsalbum:item",
+            "itemStack": {
+                "id": "collectorsalbum:epic_custom_card_pack",
+                "components": {
+                    "collectorsalbum:pack_drops_table": "dyes:dyes_drops",
+                    "minecraft:custom_name": "{\"text\":\"Dyes pack\",\"color\":\"dark_purple\",\"italic\":false,\"bold\":true}"
+                }
+            }
+        }
+    }
+}
