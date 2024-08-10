@@ -7,7 +7,14 @@
         "pageOrder": 510
     },
     "template": {
-        "bookmarkItem": "minecraft:purple_dye"
+        "bookmarkItem": "minecraft:purple_dye",
+        "slotPositions": {
+            "columns": 2,
+            "rows": 4,
+            "xAlbumSlotStart": 40,
+            "yAlbumSlotStart": 30,
+            "xSlotSpacing": 35
+        }
     },
     "cards": [
         "dyes:white_dye",
