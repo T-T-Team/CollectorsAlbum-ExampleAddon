@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:epic_golden_carrot_card",
+  "rarity": "EPIC",
+  "item": "collectorsalbum:epic_golden_carrot_card",
+  "category": "collectorsalbum:nature",
+  "number": 25
+}

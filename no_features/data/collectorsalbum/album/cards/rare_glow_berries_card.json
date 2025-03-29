@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:rare_glow_berries_card",
+  "rarity": "RARE",
+  "item": "collectorsalbum:rare_glow_berries_card",
+  "category": "collectorsalbum:nature",
+  "number": 29
+}

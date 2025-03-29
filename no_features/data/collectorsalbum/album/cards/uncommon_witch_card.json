@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:uncommon_witch_card",
+  "rarity": "UNCOMMON",
+  "item": "collectorsalbum:uncommon_witch_card",
+  "category": "collectorsalbum:mobs",
+  "number": 7
+}

@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:rare_potato_card",
+  "rarity": "RARE",
+  "item": "collectorsalbum:rare_potato_card",
+  "category": "collectorsalbum:nature",
+  "number": 23
+}

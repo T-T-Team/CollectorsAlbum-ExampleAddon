@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:uncommon_ender_pearl_card",
+  "rarity": "UNCOMMON",
+  "item": "collectorsalbum:uncommon_ender_pearl_card",
+  "category": "collectorsalbum:items",
+  "number": 16
+}

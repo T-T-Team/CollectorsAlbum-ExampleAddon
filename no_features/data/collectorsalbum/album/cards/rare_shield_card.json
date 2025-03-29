@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:rare_shield_card",
+  "rarity": "RARE",
+  "item": "collectorsalbum:rare_shield_card",
+  "category": "collectorsalbum:armor",
+  "number": 29
+}

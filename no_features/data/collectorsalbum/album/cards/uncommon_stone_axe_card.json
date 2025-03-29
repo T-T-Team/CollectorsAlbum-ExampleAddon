@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:uncommon_stone_axe_card",
+  "rarity": "UNCOMMON",
+  "item": "collectorsalbum:uncommon_stone_axe_card",
+  "category": "collectorsalbum:tools",
+  "number": 8
+}

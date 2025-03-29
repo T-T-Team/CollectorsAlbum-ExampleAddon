@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:epic_feather_card",
+  "rarity": "EPIC",
+  "item": "collectorsalbum:epic_feather_card",
+  "category": "collectorsalbum:items",
+  "number": 29
+}

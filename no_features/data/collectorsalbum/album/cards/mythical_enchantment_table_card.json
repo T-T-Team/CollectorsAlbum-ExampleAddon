@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:mythical_enchantment_table_card",
+  "rarity": "MYTHICAL",
+  "item": "collectorsalbum:mythical_enchantment_table_card",
+  "category": "collectorsalbum:items",
+  "number": 1
+}

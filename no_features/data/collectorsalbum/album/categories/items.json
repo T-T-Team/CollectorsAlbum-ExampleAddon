@@ -1,0 +1,14 @@
+{
+  "type": "collectorsalbum:category",
+  "id": "collectorsalbum:items",
+  "display": {
+    "name": "album.category.collectorsalbum.items",
+    "translate": true,
+    "styles": ["white"],
+    "pageOrder": 500
+  },
+  "template": {
+    "bookmarkItem": "minecraft:feather"
+  },
+  "cards": []
+}

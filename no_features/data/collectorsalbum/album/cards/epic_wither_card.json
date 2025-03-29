@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:epic_wither_card",
+  "rarity": "EPIC",
+  "item": "collectorsalbum:epic_wither_card",
+  "category": "collectorsalbum:mobs",
+  "number": 14
+}

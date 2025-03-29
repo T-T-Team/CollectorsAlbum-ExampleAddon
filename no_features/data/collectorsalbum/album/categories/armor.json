@@ -1,0 +1,15 @@
+{
+  "type": "collectorsalbum:category",
+  "id": "collectorsalbum:armor",
+  "display": {
+    "name": "album.category.collectorsalbum.armor",
+    "translate": true,
+    "styles": ["blue"],
+    "pageOrder": 200
+  },
+  "template": {
+    "bookmarkItem": "minecraft:iron_chestplate"
+  },
+  "cards": [
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:common_chainmail_chestplate_card",
+  "rarity": "COMMON",
+  "item": "collectorsalbum:common_chainmail_chestplate_card",
+  "category": "collectorsalbum:armor",
+  "number": 10
+}

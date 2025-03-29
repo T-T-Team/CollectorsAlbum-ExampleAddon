@@ -1,0 +1,14 @@
+{
+  "type": "collectorsalbum:category",
+  "id": "collectorsalbum:nature",
+  "display": {
+    "name": "album.category.collectorsalbum.nature",
+    "translate": true,
+    "styles": ["green"],
+    "pageOrder": 400
+  },
+  "template": {
+    "bookmarkItem": "minecraft:oxeye_daisy"
+  },
+  "cards": []
+}

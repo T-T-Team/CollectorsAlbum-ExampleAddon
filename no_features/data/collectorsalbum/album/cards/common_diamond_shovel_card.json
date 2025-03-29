@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:common_diamond_shovel_card",
+  "rarity": "COMMON",
+  "item": "collectorsalbum:common_diamond_shovel_card",
+  "category": "collectorsalbum:tools",
+  "number": 24
+}

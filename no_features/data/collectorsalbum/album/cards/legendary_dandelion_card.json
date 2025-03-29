@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:legendary_dandelion_card",
+  "rarity": "LEGENDARY",
+  "item": "collectorsalbum:legendary_dandelion_card",
+  "category": "collectorsalbum:nature",
+  "number": 8
+}

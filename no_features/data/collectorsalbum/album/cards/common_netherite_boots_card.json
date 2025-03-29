@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:common_netherite_boots_card",
+  "rarity": "COMMON",
+  "item": "collectorsalbum:common_netherite_boots_card",
+  "category": "collectorsalbum:armor",
+  "number": 24
+}

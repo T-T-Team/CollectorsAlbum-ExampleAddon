@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:rare_beacon_card",
+  "rarity": "RARE",
+  "item": "collectorsalbum:rare_beacon_card",
+  "category": "collectorsalbum:items",
+  "number": 2
+}

@@ -1,0 +1,14 @@
+{
+  "type": "collectorsalbum:category",
+  "id": "collectorsalbum:mobs",
+  "display": {
+    "name": "album.category.collectorsalbum.mobs",
+    "translate": true,
+    "styles": ["red"],
+    "pageOrder": 300
+  },
+  "template": {
+    "bookmarkItem": "minecraft:zombie_head"
+  },
+  "cards": []
+}

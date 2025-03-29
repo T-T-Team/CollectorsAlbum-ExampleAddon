@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:epic_diamond_horse_armor_card",
+  "rarity": "EPIC",
+  "item": "collectorsalbum:epic_diamond_horse_armor_card",
+  "category": "collectorsalbum:armor",
+  "number": 28
+}

@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:mythical_kelp_card",
+  "rarity": "MYTHICAL",
+  "item": "collectorsalbum:mythical_kelp_card",
+  "category": "collectorsalbum:nature",
+  "number": 26
+}

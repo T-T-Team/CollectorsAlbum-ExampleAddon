@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "type": "collectorsalbum:rarity_card",
+  "id": "collectorsalbum:mythical_blaze_card",
+  "rarity": "MYTHICAL",
+  "item": "collectorsalbum:mythical_blaze_card",
+  "category": "collectorsalbum:mobs",
+  "number": 1
+}

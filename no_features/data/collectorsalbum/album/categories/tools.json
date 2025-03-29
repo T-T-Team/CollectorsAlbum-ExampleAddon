@@ -1,0 +1,14 @@
+{
+  "type": "collectorsalbum:category",
+  "id": "collectorsalbum:tools",
+  "display": {
+    "name": "album.category.collectorsalbum.tools",
+    "translate": true,
+    "styles": ["gold"],
+    "pageOrder": 100
+  },
+  "template": {
+    "bookmarkItem": "minecraft:diamond_pickaxe"
+  },
+  "cards": []
+}
