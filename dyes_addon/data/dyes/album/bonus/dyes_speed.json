@@ -1,14 +1,18 @@
 {
+  "title": "Speed boost",
+  "description": "Gives Speed III passive effect",
+  "value": {
     "type": "collectorsalbum:category_cards",
     "category": "dyes:dyes",
     "filter": {
-        "cards": {
-            "min": 16
-        }
+      "cards": {
+        "min": 16
+      }
     },
     "item": {
-        "type": "collectorsalbum:effect",
-        "effect": "minecraft:speed",
-        "amplifier": 2
+      "type": "collectorsalbum:effect",
+      "effect": "minecraft:speed",
+      "amplifier": 2
     }
+  }
 }
