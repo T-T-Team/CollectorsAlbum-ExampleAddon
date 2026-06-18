@@ -3,7 +3,7 @@
     "id": "dyes:dyes",
     "display": {
         "name": "Dyes",
-        "styles": ["dark_purple"],
+        "color": "dark_purple",
         "pageOrder": 510
     },
     "template": {
